@@ -1,0 +1,3 @@
+## Hi there 👋
+
+Islamic University of Technology (IUT) is an educational and research institution in Bangladesh run and funded by the Organisation of Islamic Cooperation (OIC). The main objective of IUT is to contribute in developing the human resources of the member states of the OIC, particularly in the fields of engineering, technology and technical education. IUT receives direct endowment from OIC member countries and offers scholarships to its students in the form of free tuition, boarding, lodging and medicare. The aesthetic campus was designed by Turkish architect Pamir Mehmet, an MIT graduate
