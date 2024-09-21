@@ -22,6 +22,12 @@ The primary objective of IUT is to contribute to the development of human resour
 
 ## 🏛️ **Our Campus**
 
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
+    <img src="https://github.com/iut-oic/.github/blob/1a1ceef4e708a05f5837ff4e4f600eafa0f377cd/assets/image1.jpg" alt="IUT Campus Image 1" style="width: 30%; height: auto;" />
+    <img src="https://github.com/iut-oic/.github/blob/1a1ceef4e708a05f5837ff4e4f600eafa0f377cd/assets/image3.jpg" alt="IUT Campus Image 2" style="width: 30%; height: auto;" />
+    <img src="https://github.com/iut-oic/.github/blob/1a1ceef4e708a05f5837ff4e4f600eafa0f377cd/assets/image4.jpg" alt="IUT Campus Image 3" style="width: 30%; height: auto;" />
+</div>
+
 
 ---
 
