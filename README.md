@@ -18,6 +18,12 @@ The primary objective of IUT is to contribute to the development of human resour
 
 ## 🏛️ **Our Campus**
 
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
+    <img src="https://github.com/iut-oic/.github/blob/1a1ceef4e708a05f5837ff4e4f600eafa0f377cd/assets/image1.jpg" alt="IUT Campus Image 1" style="width: 30%; height: auto;" />
+    <img src="https://github.com/iut-oic/.github/blob/1a1ceef4e708a05f5837ff4e4f600eafa0f377cd/assets/image3.jpg" alt="IUT Campus Image 2" style="width: 30%; height: auto;" />
+    <img src="https://github.com/iut-oic/.github/blob/1a1ceef4e708a05f5837ff4e4f600eafa0f377cd/assets/image4.jpg" alt="IUT Campus Image 3" style="width: 30%; height: auto;" />
+</div>
+
 ---
 
 ## 🛠️ **Focus Areas**
@@ -35,21 +41,3 @@ For collaboration, inquiries, or more information, feel free to reach out:
 - 📧 **Email**: [iut-oic@example.com](mailto:iut-oic@example.com)
 - 🌐 **Website**: [iut-oic.org](http://iut-oic.org) *(placeholder)*
 - 📱 **Social Media**: Follow us on [LinkedIn](#), [Twitter](#), [Facebook](#)
-
----
-
-## 🖼️ **IUT in Pictures**
-
-```html
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <img src="https://github.com/user-attachments/assets/image1.jpg" alt="IUT Campus Image 1" style="max-width: 30%; height: auto;" />
-    <img src="https://github.com/user-attachments/assets/image2.jpg" alt="IUT Campus Image 2" style="max-width: 30%; height: auto;" />
-    <img src="https://github.com/user-attachments/assets/image3.jpg" alt="IUT Campus Image 3" style="max-width: 30%; height: auto;" />
-</div>
-```
-
----
-
-### Notes:
-- Replace `https://github.com/user-attachments/assets/image1.jpg`, `image2.jpg`, and `image3.jpg` with the actual URLs of the images you want to display.
-- The images are responsive, ensuring they adjust their size according to the display width (e.g., desktop, tablet, or mobile screens).
